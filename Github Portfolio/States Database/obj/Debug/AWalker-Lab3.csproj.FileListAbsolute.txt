@@ -1,0 +1,13 @@
+C:\Users\alyss\source\repos\AWalker-Lab3\bin\Debug\US_States.mdf
+C:\Users\alyss\source\repos\AWalker-Lab3\bin\Debug\US_States_log.ldf
+C:\Users\alyss\source\repos\AWalker-Lab3\bin\Debug\AWalker-Lab3.exe.config
+C:\Users\alyss\source\repos\AWalker-Lab3\bin\Debug\AWalker-Lab3.exe
+C:\Users\alyss\source\repos\AWalker-Lab3\bin\Debug\AWalker-Lab3.pdb
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker-Lab3.csproj.AssemblyReference.cache
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker_Lab3.Details.resources
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker_Lab3.Form1.resources
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker_Lab3.Properties.Resources.resources
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker-Lab3.csproj.GenerateResource.cache
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker-Lab3.exe
+C:\Users\alyss\source\repos\AWalker-Lab3\obj\Debug\AWalker-Lab3.pdb
