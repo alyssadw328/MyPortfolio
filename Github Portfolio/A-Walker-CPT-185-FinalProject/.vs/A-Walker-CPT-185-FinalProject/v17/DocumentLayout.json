@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|c:\\users\\alyss\\onedrive\\desktop\\fall 2024 classes\\cpt 185\\a-walker-cpt-185-finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\pi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|solutionrelative:pi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\pi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|solutionrelative:pi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DA3A2AD-E4D3-4022-B159-F0CF6A5341DB}|A-Walker-CPT-185-FinalProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pi.cs",
+              "DocumentMoniker": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\Pi.cs",
+              "RelativeDocumentMoniker": "Pi.cs",
+              "ToolTip": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\Pi.cs",
+              "RelativeToolTip": "Pi.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-29T02:12:19.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\Pi.cs",
+              "RelativeDocumentMoniker": "Pi.cs",
+              "ToolTip": "C:\\Users\\alyss\\OneDrive\\Desktop\\CPT 185\\A-Walker-CPT-185-FinalProject\\Pi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CPT 185\\A-Walker-CPT-185-FinalProject\\Pi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-29T02:12:20.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAAwBMCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:12:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alyss\\OneDrive\\Desktop\\Fall 2024 Classes\\CPT 185\\A-Walker-CPT-185-FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alyss\\OneDrive\\Desktop\\CPT 185\\A-Walker-CPT-185-FinalProject\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CPT 185\\A-Walker-CPT-185-FinalProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-29T02:12:20.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
